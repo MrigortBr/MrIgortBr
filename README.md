@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Pereira lins or Igortbr</h1>
-<h3 align="center">PT-BR: Sou um programador junior recifense |EN-US: I'm a junior programmer from Recife</h3>
+<h3 align="center">PT-BR: Sou um programador junior recifense | EN-US: I'm a junior programmer from Recife</h3>
 
 <h3 align="left">Meus contatos | Connect with me:</h3>
 <p align="left">
